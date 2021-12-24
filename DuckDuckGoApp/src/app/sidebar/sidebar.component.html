@@ -1,0 +1,23 @@
+
+
+<div class="sidebar-header">
+  <h3>Search History</h3>
+  <strong>SH</strong>
+</div>
+
+<ul class="list-unstyled components">
+  <li class="active">
+    <a
+      href="#searchHistoryList"
+      data-toggle="collapse"
+      aria-expanded="false"
+      class="dropdown-toggle"
+    >
+      <i class="fas fa-history"></i>
+      Previous Search
+    </a>
+    <ul class="collapse list-unstyled" id="searchHistoryList">
+      <li *ngFor="let item of searchHistory; let i = index;" [attr.data-index]="i" ><a (click)="reSearch(item)">Search: {{item}}</a> </li>
+    </ul>
+  </li>
+</ul>
