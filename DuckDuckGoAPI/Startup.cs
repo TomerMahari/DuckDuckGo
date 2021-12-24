@@ -17,6 +17,7 @@ namespace DuckDuckGoAPI
         {
             services.AddControllers();
 
+            //DI DIP
             services.AddScoped<ISearchEngineRepo, SearchEngineRepo>();
             services.AddControllers();
 
