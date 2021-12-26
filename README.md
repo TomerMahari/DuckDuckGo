@@ -3,13 +3,13 @@
 ### The challenge
 Creating a server-side Api with **DotNet-Core**, implementing DiP, IoC and DI with the challenge of learning Core technology.
 FrontEnd **Angular 7** with **Bootsrap 4**, including in it all the client-side ability, from 2way-Binding too pipe filters and Emitters.
-## Installation && Run
+## Installation 
 - clone the project
 - open **DuckDuckGo/DuckDuckGoApp** in the terminal
 - run `npm i` command 
 
 
-## Development server
+## Run localhost
 - open **DuckDuckGo/DuckDuckGoAPI**  in the terminal
 - run `dotnet run` command
 - open **DuckDuckGo/DuckDuckGoApp** in the terminal
