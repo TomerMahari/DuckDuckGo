@@ -6,7 +6,7 @@ FrontEnd **Angular 7** with **Bootsrap 4**, including in it all the client-side 
 ## Installation && Run
 - clone the project
 - open **DuckDuckGo/DuckDuckGoApp** in the terminal
-- run **'npm i'** command 
+- run `npm i` command 
 
 
 ## Development server
