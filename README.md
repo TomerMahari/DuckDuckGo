@@ -1,19 +1,19 @@
 # Duck Duck Go Search Engine 
 ## ASP.Net Core BE, Angular 7 FE
 ### The challenge
-Creating a server-side Api with **DotNet-Core**, implementing DiP, IoC and DI with the challenge learning Core technology.
+Creating a server-side Api with **DotNet-Core**, implementing DiP, IoC and DI with the challenge of learning Core technology.
 FrontEnd **Angular 7** with **Bootsrap 4**, including in it all the client-side ability, from 2way-Binding too pipe filters and Emitters.
 ## Installation && Run
 - clone the project
 - open **DuckDuckGo/DuckDuckGoApp** in the terminal
 - run **'npm i'** command 
-- now run **'npm start'** 
-- open **DuckDuckGo/DuckDuckGoAPI**  in the terminal
-- run **'dotnet run'** command
+
 
 ## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- open **DuckDuckGo/DuckDuckGoAPI**  in the terminal
+- run `dotnet run` command
+- open **DuckDuckGo/DuckDuckGoApp** in the terminal
+Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ### What this site do:
 DuckDuckGo is a SPA of search engine.
